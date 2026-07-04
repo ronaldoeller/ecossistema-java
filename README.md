@@ -1,2 +1,2 @@
 # ecossistema-java
-Plano de estudo do ecossistema Java
+Plano de estudo do ecossistema Java.
